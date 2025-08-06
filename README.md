@@ -1,7 +1,7 @@
 
 **Calculator
 Overview**
-Styled Calculator is a web-based calculator application developed using HTML, CSS, and JavaScript. It provides users with an intuitive and responsive interface to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+ Calculator is a web-based calculator application developed using HTML, CSS, and JavaScript. It provides users with an intuitive and responsive interface to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 **Features**
 This calculator includes a clean layout with a 4x4 grid of buttons, real-time input display, a backspace button for editing, and error handling for invalid expressions such as division by zero. The interface is styled for clarity and ease of use, making it accessible on both desktop and mobile devices.
@@ -15,8 +15,6 @@ index.html – The main calculator interface
 style.css – Styling rules for layout and UI
 
 script.js – JavaScript logic for functionality
-
-README – Documentation and usage guide
 
 Future Enhancements
 Potential improvements include keyboard support, dark mode, memory functions, and scientific operations for advanced users.
